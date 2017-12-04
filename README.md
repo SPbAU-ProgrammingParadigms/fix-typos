@@ -1,5 +1,5 @@
 # fix-typos
 
-Aparently, sume one cant type.
+Aparently, some one cant type.
 
 Pleez fix all the typos.
